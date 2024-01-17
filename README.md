@@ -6,3 +6,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 2(15 JAN) :** Find Players With Zero or One Losses
 
 **DAY 3(16 JAN) :** Insert Delete GetRandom O(1)
+
+**DAY 4(17 JAN) :** Unique Number of Occurrences
