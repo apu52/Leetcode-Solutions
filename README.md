@@ -8,3 +8,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 3(16 JAN) :** Insert Delete GetRandom O(1)
 
 **DAY 4(17 JAN) :** Unique Number of Occurrences
+
+**DAY 5(18 JAN) :** Climbing Stairs
