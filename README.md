@@ -10,3 +10,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 4(17 JAN) :** Unique Number of Occurrences
 
 **DAY 5(18 JAN) :** Climbing Stairs
+
+**DAY 6(19 JAN) :** Minimum Falling Path Sum
