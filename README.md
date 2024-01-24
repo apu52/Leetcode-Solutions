@@ -20,3 +20,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 9(22 JAN) :** Set Mismatch
 
 **DAY 10(23 JAN) :** Maximum Length of a Concatenated String with Unique Characters
+
+**DAY 11(24 JAN) :** Pseudo-Palindromic Paths in a Binary Tree
