@@ -24,3 +24,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 11(24 JAN) :** Pseudo-Palindromic Paths in a Binary Tree
 
 **DAY 12(25 JAN) :**  Longest Common Subsequence
+
+**DAY 13(26 JAN) :**  Out of Boundary Paths
