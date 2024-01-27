@@ -26,3 +26,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 12(25 JAN) :**  Longest Common Subsequence
 
 **DAY 13(26 JAN) :**  Out of Boundary Paths
+
+**DAY 14(27 JAN) :** K Inverse Pairs Array
