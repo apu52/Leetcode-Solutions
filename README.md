@@ -34,3 +34,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 16(29 JAN) :** Implement Queue using Stacks
 
 **DAY 17(30 JAN) :** Evaluate Reverse Polish Notation
+
+**DAY 18(31 JAN) :** Daily Temperatures
