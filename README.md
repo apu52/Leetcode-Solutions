@@ -36,3 +36,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 17(30 JAN) :** Evaluate Reverse Polish Notation
 
 **DAY 18(31 JAN) :** Daily Temperatures
+
+**DAY 19(1 FEB) :** Divide Array Into Arrays With Max Difference
