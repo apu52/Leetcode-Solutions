@@ -40,3 +40,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 19(1 FEB) :** Divide Array Into Arrays With Max Difference
 
 **DAY 20(2 FEB) :** Sequential Digits
+
+**DAY 21(3 FEB) :** Partition Array for Maximum Sum
