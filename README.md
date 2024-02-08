@@ -50,3 +50,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 24(6 FEB) :** Group Anagrams
 
 **DAY 25(7 FEB) :** Sort Characters By Frequency
+
+**DAY 26(8 FEB) :** Perfect Squares
