@@ -55,3 +55,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 27(9 FEB) :** Largest Divisible Subset
 
+**DAY 28(10 FEB) :** Palindromic Substrings
+
