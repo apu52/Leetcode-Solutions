@@ -60,3 +60,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 29(11 FEB) :** Cherry Pickup II
 
 **DAY 30(12 FEB) :** Majority Element
+
+**DAY 31(13 FEB) :** Find First Palindromic String in the Array
