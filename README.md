@@ -66,3 +66,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 32(14 FEB) :** Rearrange Array Elements by Sign
 
 **DAY 33(15 FEB) :** Find Polygon With the Largest Perimeter
+
+**DAY 34(16 FEB) :** Least Number of Unique Integers after K Removals
