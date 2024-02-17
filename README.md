@@ -68,3 +68,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 33(15 FEB) :** Find Polygon With the Largest Perimeter
 
 **DAY 34(16 FEB) :** Least Number of Unique Integers after K Removals
+
+**DAY 35(17 FEB) :** Furthest Building You Can Reach
