@@ -72,3 +72,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 35(17 FEB) :** Furthest Building You Can Reach
 
 **DAY 36(18 FEB) :** Meeting Rooms III
+
+**DAY 37(19 FEB) :** Power of Two
