@@ -74,3 +74,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 36(18 FEB) :** Meeting Rooms III
 
 **DAY 37(19 FEB) :** Power of Two
+
+**DAY 38(20 FEB) :** Missing Number
