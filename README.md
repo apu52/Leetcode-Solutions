@@ -77,4 +77,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 38(20 FEB) :** Missing Number
 
-**DAY 38(20 FEB) :** Bitwise AND of Numbers Range
+**DAY 39(21 FEB) :** Bitwise AND of Numbers Range
+
+**DAY 40(22 FEB) :** Find the Town Judge
