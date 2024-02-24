@@ -82,3 +82,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 40(22 FEB) :** Find the Town Judge
 
 **DAY 41(23 FEB) :** Cheapest Flights Within K Stops
+
+**DAY 42(24 FEB) :** Find All People With Secret
