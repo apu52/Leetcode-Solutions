@@ -88,3 +88,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 43(25 FEB) :** Greatest Common Divisor Traversal
 
 **DAY 44(26 FEB) :** Same Tree
+
+**DAY 45(27 FEB) :** Diameter of Binary Tree
