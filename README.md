@@ -95,3 +95,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 47(29 FEB) :** Even Odd Tree
 
+**DAY 48(03 MAR) :** Remove Nth Node From End of List
+
