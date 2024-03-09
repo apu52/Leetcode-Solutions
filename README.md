@@ -106,3 +106,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 52(07 MAR) :** Middle of the Linked List
 
 **DAY 53(08 MAR) :** Count Elements With Maximum Frequency
+
+**DAY 53(08 MAR) :** Count Elements With Maximum Frequency
+
+**DAY 54(09 MAR) :** Minimum Common Value
