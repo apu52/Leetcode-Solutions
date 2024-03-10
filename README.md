@@ -110,3 +110,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 53(08 MAR) :** Count Elements With Maximum Frequency
 
 **DAY 54(09 MAR) :** Minimum Common Value
+
+**DAY 55(10 MAR) :** Intersection of Two Arrays
