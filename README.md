@@ -112,3 +112,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 55(10 MAR) :** Intersection of Two Arrays
 
 **DAY 56(11 MAR) :** Custom Sort String
+
+**DAY 57(12 MAR) :** Remove Zero Sum Consecutive Nodes from Linked List
