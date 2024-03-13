@@ -114,3 +114,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 56(11 MAR) :** Custom Sort String
 
 **DAY 57(12 MAR) :** Remove Zero Sum Consecutive Nodes from Linked List
+
+**DAY 58(13 MAR) :** Find the Pivot Integer
