@@ -122,3 +122,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 60(15 MAR) :** Product of Array Except Self
 
 **DAY 61(16 MAR) :** Contiguous Array
+
+**DAY 62(17 MAR) :** Insert Interval
