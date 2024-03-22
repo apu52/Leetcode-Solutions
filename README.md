@@ -132,3 +132,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 65(20 MAR) :** Merge In Between Linked Lists
 
 **DAY 66(21 MAR) :** Reverse Linked List
+
+**DAY 67(22 MAR) :** Palindrome Linked List
