@@ -136,3 +136,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 67(22 MAR) :** Palindrome Linked List
 
 **DAY 68(23 MAR) :** Fibonacci series up to Nth term
+
+**DAY 69(24 MAR) :** Find the Duplicate Number
