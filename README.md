@@ -138,3 +138,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 68(23 MAR) :** Fibonacci series up to Nth term
 
 **DAY 69(24 MAR) :** Find the Duplicate Number
+
+**DAY 70(25 MAR) :** Find All Duplicates in an Array
