@@ -142,3 +142,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 70(25 MAR) :** Find All Duplicates in an Array
 
 **DAY 71(26 MAR) :** First Missing Positive
+
+**DAY 72(27 MAR) :** Subarray Product Less Than K
