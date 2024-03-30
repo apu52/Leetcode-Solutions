@@ -148,3 +148,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 73(28 MAR) :** Length of Longest Subarray With at Most K Frequency
 
 **DAY 74(29 MAR) :** Count Subarrays Where Max Element Appears at Least K Times
+
+**DAY 75(30 MAR) :** Subarrays with K Different Integers
