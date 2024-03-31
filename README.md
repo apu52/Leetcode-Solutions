@@ -150,3 +150,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 74(29 MAR) :** Count Subarrays Where Max Element Appears at Least K Times
 
 **DAY 75(30 MAR) :** Subarrays with K Different Integers
+
+**DAY 76(31 MAR) :** Count Subarrays With Fixed Bounds
