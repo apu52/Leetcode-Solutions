@@ -154,3 +154,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 76(31 MAR) :** Count Subarrays With Fixed Bounds
 
 **DAY 77(1 APR) :** Length of Last Word
+
+**DAY 78(2 APR) :** Isomorphic Strings
