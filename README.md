@@ -164,3 +164,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 81(5 APR) :** Make The String Great
 
 **DAY 82(6 APR) :** Minimum Remove to Make Valid Parentheses
+
+**DAY 83(7 APR) :** Valid Parenthesis String
