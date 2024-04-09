@@ -168,3 +168,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 83(7 APR) :** Valid Parenthesis String
 
 **DAY 84(8 APR) :** Number of Students Unable to Eat Lunch
+
+**DAY 85(9 APR) :** Time Needed to Buy Tickets
