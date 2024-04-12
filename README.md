@@ -174,3 +174,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 86(10 APR) :** Reveal Cards In Increasing Order
 
 **DAY 87(11 APR) :** Remove K Digits
+
+**DAY 88(12 APR) :** Trapping Rain Water
