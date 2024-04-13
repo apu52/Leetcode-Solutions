@@ -176,3 +176,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 87(11 APR) :** Remove K Digits
 
 **DAY 88(12 APR) :** Trapping Rain Water
+
+**DAY 89(13 APR) :** Maximal Rectangle
