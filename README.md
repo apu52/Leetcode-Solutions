@@ -188,3 +188,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 93(17 APR) :** Smallest String Starting From Leaf
 
 **DAY 94(18 APR) :** Island Perimeter
+
+**DAY 95(19 APR) :** Number of Islands
