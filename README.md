@@ -190,3 +190,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 94(18 APR) :** Island Perimeter
 
 **DAY 95(19 APR) :** Number of Islands
+
+**DAY 96(20 APR) :** Find All Groups of Farmland
