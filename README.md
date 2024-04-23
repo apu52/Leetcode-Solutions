@@ -196,3 +196,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 97(21 APR) :** Find if Path Exists in Graph
 
 **DAY 98(22 APR) :** Open the Lock
+
+**DAY 99(23 APR) :** Minimum Height Trees
