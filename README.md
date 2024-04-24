@@ -198,3 +198,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 98(22 APR) :** Open the Lock
 
 **DAY 99(23 APR) :** Minimum Height Trees
+
+**DAY 100(24 APR) :** N-th Tribonacci Number
+
+
