@@ -201,4 +201,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 100(24 APR) :** N-th Tribonacci Number
 
+**DAY 101(25 APR) :** Longest Ideal Subsequence
+
 
