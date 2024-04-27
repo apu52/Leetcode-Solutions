@@ -204,3 +204,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 101(25 APR) :** Longest Ideal Subsequence
 
 **DAY 102(26 APR) :** Minimum Falling Path Sum II
+
+**DAY 103(27 APR) :** Freedom Trail
