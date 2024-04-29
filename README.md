@@ -208,3 +208,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 103(27 APR) :** Freedom Trail
 
 **DAY 104(28 APR) :** Sum of Distances in Tree
+
+**DAY 105(29 APR) :** Minimum Number of Operations to Make Array XOR Equal to K
