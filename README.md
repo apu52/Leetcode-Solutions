@@ -222,3 +222,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 110(4 MAY) :** Boats to Save People
 
 **DAY 111(5 MAY) :** Delete Node in a Linked List
+
+**DAY 112(6 MAY) :** Remove Nodes From Linked List
+
