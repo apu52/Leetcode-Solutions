@@ -226,3 +226,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 112(6 MAY) :** Remove Nodes From Linked List
 
 **DAY 113(7 MAY) :** Double a Number Represented as a Linked List
+
+**DAY 114(8 MAY) :** Relative Ranks
+
