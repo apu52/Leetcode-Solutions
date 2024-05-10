@@ -230,3 +230,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 114(8 MAY) :** Relative Ranks
 
 **DAY 115(9 MAY) :** Maximize Happiness of Selected Children
+
+**DAY 116(10 MAY) :** K-th Smallest Prime Fraction
