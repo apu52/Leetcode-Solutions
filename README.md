@@ -238,3 +238,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 118(12 MAY) :** Largest Local Values in a Matrix
 
 **DAY 119(13 MAY) :** Score After Flipping Matrix
+
+**DAY 120(14 MAY) :** Path with Maximum Gold
+
