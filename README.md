@@ -244,3 +244,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 121(15 MAY) :** Find the Safest Path in a Grid
 
 **DAY 122(16 MAY) :** Evaluate Boolean Binary Tree
+
+**DAY 123(17 MAY) :** Delete Leaves With a Given Value
