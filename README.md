@@ -246,3 +246,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 122(16 MAY) :** Evaluate Boolean Binary Tree
 
 **DAY 123(17 MAY) :** Delete Leaves With a Given Value
+
+**DAY 124(18 MAY) :** Distribute Coins in Binary Tree
