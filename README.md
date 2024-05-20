@@ -250,3 +250,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 124(18 MAY) :** Distribute Coins in Binary Tree
 
 **DAY 125(19 MAY) :** Find the Maximum Sum of Node Values
+
+**DAY 126(20 MAY) :** Sum of All Subset XOR Totals
