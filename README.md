@@ -256,3 +256,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 127(21 MAY) :** Subsets
 
 **DAY 128(22 MAY) :** Palindrome Partitioning
+
+**DAY 129(23 MAY) :** The Number of Beautiful Subsets
