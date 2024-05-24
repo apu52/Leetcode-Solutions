@@ -258,3 +258,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 128(22 MAY) :** Palindrome Partitioning
 
 **DAY 129(23 MAY) :** The Number of Beautiful Subsets
+
+**DAY 130(24 MAY) :** Maximum Score Words Formed by Letters
