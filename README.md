@@ -274,3 +274,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 136(30 MAY) :** Count Triplets That Can Form Two Arrays of Equal XOR
 
 **DAY 137(31 MAY) :** Single Number III
+
+**DAY 138(1 JUN) :** Score of a String
