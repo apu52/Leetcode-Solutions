@@ -278,3 +278,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 138(1 JUN) :** Score of a String
 
 **DAY 139(2 JUN) :** Reverse String
+
+**DAY 140(3 JUN) :** Append Characters to String to Make Subsequence
