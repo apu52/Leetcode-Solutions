@@ -282,3 +282,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 140(3 JUN) :** Append Characters to String to Make Subsequence
 
 **DAY 141(4 JUN) :** Longest Palindrome
+
+**DAY 142(5 JUN) :** Find Common Characters
+
