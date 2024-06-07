@@ -286,3 +286,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 142(5 JUN) :** Find Common Characters
 
 **DAY 143(6 JUN) :** Hand of Straights
+
+**DAY 144(7 JUN) :** Replace Words
