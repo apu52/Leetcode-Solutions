@@ -290,3 +290,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 144(7 JUN) :** Replace Words
 
 **DAY 145(8 JUN) :** Continuous Subarray Sum
+
+**DAY 146(9 JUN) :** Subarray Sums Divisible by K
