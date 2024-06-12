@@ -296,3 +296,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 147(10 JUN) :** Height Checker
 
 **DAY 148(11 JUN) :** Relative Sort Array
+
+**DAY 149(12 JUN) :** Sort Colors
