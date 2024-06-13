@@ -298,3 +298,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 148(11 JUN) :** Relative Sort Array
 
 **DAY 149(12 JUN) :** Sort Colors
+
+**DAY 150(13 JUN) :** Minimum Number of Moves to Seat Everyone
