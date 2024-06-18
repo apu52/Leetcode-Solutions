@@ -306,3 +306,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 152(15 JUN) :** IPO
 
 **DAY 153(16 JUN) :** Patching Array
+
+**DAY 154(18 JUN) :** Most Profit Assigning Work
