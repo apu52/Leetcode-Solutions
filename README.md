@@ -314,3 +314,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 156(20 JUN) :** Magnetic Force Between Two Balls
 
 **DAY 157(21 JUN) :** Grumpy Bookstore Owner
+
+**DAY 158(22 JUN) :**  Count Number of Nice Subarrays
