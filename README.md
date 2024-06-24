@@ -318,3 +318,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 158(22 JUN) :**  Count Number of Nice Subarrays
 
 **DAY 159(23 JUN) :**  Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
+
+**DAY 160(24 JUN) :**  Minimum Number of K Consecutive Bit Flips
