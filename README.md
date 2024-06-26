@@ -322,3 +322,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 160(24 JUN) :**  Minimum Number of K Consecutive Bit Flips
 
 **DAY 161(25 JUN) :**  Binary Search Tree to Greater Sum Tree
+
+**DAY 162(26 JUN) :**  Balance a Binary Search Tree
