@@ -328,3 +328,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 163(27 JUN) :**  Find Center of Star Graph
 
 **DAY 164(28 JUN) :**  Maximum Total Importance of Roads
+
+**DAY 165(1 JUL) :**  Three Consecutive Odds
+
