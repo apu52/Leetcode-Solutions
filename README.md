@@ -332,3 +332,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 165(1 JUL) :**  Three Consecutive Odds
 
 **DAY 166(2 JUL) :**  Intersection of Two Arrays II
+
+**DAY 167(3 JUL) :**  Minimum Difference Between Largest and Smallest Value in Three Moves
