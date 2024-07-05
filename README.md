@@ -336,3 +336,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 167(3 JUL) :**  Minimum Difference Between Largest and Smallest Value in Three Moves
 
 **DAY 168(4 JUL) :**  Merge Nodes in Between Zeros
+
+**DAY 169(5 JUL) :**  Find the Minimum and Maximum Number of Nodes Between Critical Points
