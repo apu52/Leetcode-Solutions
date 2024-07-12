@@ -341,3 +341,4 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 170(6 JUL) :**  Pass the Pillow
 
+**DAY 171(12 JUL) :**  Maximum Score From Removing Substrings
