@@ -352,3 +352,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 175(16 JUL) :**  Step-By-Step Directions From a Binary Tree Node to Another
 
 **DAY 176(17 JUL) :**  Delete Nodes And Return Forest
+
+**DAY 177(18 JUL) :**  Number of Good Leaf Nodes Pairs
