@@ -354,3 +354,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 176(17 JUL) :**  Delete Nodes And Return Forest
 
 **DAY 177(18 JUL) :**  Number of Good Leaf Nodes Pairs
+
+**DAY 178(19 JUL) :**  Lucky Numbers in a Matrix
+
