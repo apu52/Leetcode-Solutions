@@ -358,3 +358,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 178(19 JUL) :**  Lucky Numbers in a Matrix
 
 **DAY 179(20 JUL) :**  Find Valid Matrix Given Row and Column Sums
+
+**DAY 180(21 JUL) :**  Build a Matrix With Conditions
