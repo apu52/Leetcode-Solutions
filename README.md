@@ -360,3 +360,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 179(20 JUL) :**  Find Valid Matrix Given Row and Column Sums
 
 **DAY 180(21 JUL) :**  Build a Matrix With Conditions
+
+**DAY 181(22 JUL) :**  Sort the People
