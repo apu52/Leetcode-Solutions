@@ -362,3 +362,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 180(21 JUL) :**  Build a Matrix With Conditions
 
 **DAY 181(22 JUL) :**  Sort the People
+
+**DAY 182(23 JUL) :**  Sort Array by Increasing Frequency
