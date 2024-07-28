@@ -372,3 +372,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 185(26 JUL) :**  Find the City With the Smallest Number of Neighbors at a Threshold Distance
 
 **DAY 186(27 JUL) :**  Minimum Cost to Convert String I
+
+**DAY 187(28 JUL) :**  Second Minimum Time to Reach Destination
