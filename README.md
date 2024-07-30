@@ -376,3 +376,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 187(28 JUL) :**  Second Minimum Time to Reach Destination
 
 **DAY 188(29 JUL) :**  Count Number of Teams
+
+**DAY 189(30 JUL) :**  Minimum Deletions to Make String Balanced
