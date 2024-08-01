@@ -380,3 +380,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 189(30 JUL) :**  Minimum Deletions to Make String Balanced
 
 **DAY 190(31 JUL) :**  Filling Bookcase Shelves
+
+**DAY 191(1 AUG) :**  Number of Senior Citizens
