@@ -382,3 +382,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 190(31 JUL) :**  Filling Bookcase Shelves
 
 **DAY 191(1 AUG) :**  Number of Senior Citizens
+
+**DAY 192(2 AUG) :**  Minimum Swaps to Group All 1's Together II
