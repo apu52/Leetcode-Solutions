@@ -384,3 +384,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 191(1 AUG) :**  Number of Senior Citizens
 
 **DAY 192(2 AUG) :**  Minimum Swaps to Group All 1's Together II
+
+**DAY 193(3 AUG) :**  Make Two Arrays Equal by Reversing Subarrays
