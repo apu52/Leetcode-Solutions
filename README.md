@@ -410,3 +410,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 204(14 AUG) :** Find K-th Smallest Pair Distance
 
 **DAY 205(15 AUG) :** Lemonade Change
+
+**DAY 206(16 AUG) :** Maximum Distance in Arrays
