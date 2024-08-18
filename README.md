@@ -414,3 +414,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 206(16 AUG) :** Maximum Distance in Arrays
 
 **DAY 207(17 AUG) :** Maximum Number of Points with Cost
+
+**DAY 208(18 AUG) :** Ugly Number II
