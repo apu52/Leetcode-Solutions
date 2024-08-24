@@ -427,3 +427,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 213(23 AUG) :** Fraction Addition and Subtraction
 
+**DAY 214(24 AUG) :** Find the Closest Palindrome
+
