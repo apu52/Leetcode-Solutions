@@ -443,4 +443,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 221(31 AUG) :** Path with Maximum Probability
 
-**DAY 222(32 AUG) :** Max sum path in two arrays
+**DAY 222(1 SEPT) :** Max sum path in two arrays
+
+**DAY 223(2 SEPT) :** Find the Student that Will Replace the Chalk
