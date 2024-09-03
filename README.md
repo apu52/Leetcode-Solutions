@@ -446,3 +446,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 222(1 SEPT) :** Max sum path in two arrays
 
 **DAY 223(2 SEPT) :** Find the Student that Will Replace the Chalk
+
+**DAY 224(3 SEPT) :** Sum of Digits of String After Convert
