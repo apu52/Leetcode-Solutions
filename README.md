@@ -450,3 +450,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 224(3 SEPT) :** Sum of Digits of String After Convert
 
 **DAY 225(4 SEPT) :** Walking Robot Simulation
+
+**DAY 226(5 SEPT) :** Find Missing Observations
+
