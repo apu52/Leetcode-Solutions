@@ -453,3 +453,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 226(5 SEPT) :** Find Missing Observations
 
+**DAY 227(6 SEPT) :** Delete Nodes From Linked List Present in Array
+
+
