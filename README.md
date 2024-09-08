@@ -457,3 +457,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 228(7 SEPT) :** Linked List in Binary Tree
 
+**DAY 229(8 SEPT) :** Split Linked List in Parts
+
+
