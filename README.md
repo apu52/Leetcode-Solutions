@@ -467,4 +467,4 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 233(12 SEPT) :**  Count the Number of Consistent Strings
 
-
+**DAY 234(13 SEPT) :**  XOR Queries of a Subarray
