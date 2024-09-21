@@ -483,3 +483,4 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 241(20 SEPT) :**  Shortest Palindrome
 
+**DAY 242(21 SEPT) :**  Lexicographical Numbers
