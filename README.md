@@ -486,3 +486,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 242(21 SEPT) :**  Lexicographical Numbers
 
 **DAY 243(22 SEPT) :**  K-th Smallest in Lexicographical Order
+
+**DAY 244(23 SEPT) :**  Extra Characters in a String
+
