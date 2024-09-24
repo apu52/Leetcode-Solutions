@@ -489,3 +489,4 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 244(23 SEPT) :**  Extra Characters in a String
 
+**DAY 245(24 SEPT) :**  Find the Length of the Longest Common Prefix
