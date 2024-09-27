@@ -494,3 +494,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 246(25 SEPT) :**  Sum of Prefix Scores of Strings
 
 **DAY 247(26 SEPT) :**  My Calendar I
+
+**DAY 248(27 SEPT) :**  My Calendar II
+
