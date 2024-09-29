@@ -498,3 +498,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 248(27 SEPT) :**  My Calendar II
 
 **DAY 249(28 SEPT) :**  Design Circular Deque
+
+**DAY 250(29 SEPT) :**  All O`one Data Structure
+
