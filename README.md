@@ -501,3 +501,4 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 250(29 SEPT) :**  All O`one Data Structure
 
+**DAY 251(30 SEPT) :**  Design a Stack With Increment Operation
