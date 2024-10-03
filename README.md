@@ -506,3 +506,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 252(01 OCT) :**  Check If Array Pairs Are Divisible by k 
 
 **DAY 253(02 OCT) :**  Rank Transform of an Array
+
+**DAY 254(03 OCT) :**  Make Sum Divisible by P
+
