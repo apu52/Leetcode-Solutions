@@ -510,3 +510,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 254(03 OCT) :**  Make Sum Divisible by P
 
 **DAY 255(04 OCT) :**  Divide Players Into Teams of Equal Skill
+
+**DAY 256(05 OCT) :**  Permutation in String
+
