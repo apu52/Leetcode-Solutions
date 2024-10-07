@@ -514,3 +514,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 256(05 OCT) :**  Permutation in String
 
 **DAY 257(06 OCT) :**  Sentence Similarity III
+
+**DAY 258(07 OCT) :**  Minimum String Length After Removing Substrings
