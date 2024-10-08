@@ -516,3 +516,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 257(06 OCT) :**  Sentence Similarity III
 
 **DAY 258(07 OCT) :**  Minimum String Length After Removing Substrings
+
+**DAY 259(08 OCT) :**  Minimum Number of Swaps to Make the String Balanced
+
