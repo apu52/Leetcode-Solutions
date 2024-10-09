@@ -519,3 +519,4 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 259(08 OCT) :**  Minimum Number of Swaps to Make the String Balanced
 
+**DAY 260(09 OCT) :**  Minimum Add to Make Parentheses Valid
