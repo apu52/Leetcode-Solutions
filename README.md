@@ -523,3 +523,4 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 261(10 OCT) :**  Maximum Width Ramp
 
+**DAY 262(11 OCT) :**  The Number of the Smallest Unoccupied Chair
