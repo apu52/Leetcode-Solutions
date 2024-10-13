@@ -525,7 +525,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 262(11 OCT) :**  The Number of the Smallest Unoccupied Chair
 
-**DAY 263(12 OCT) :**  
+**DAY 263(12 OCT) :**  Divide Intervals Into Minimum Number of Groups
 
 **DAY 264(13 OCT) :**  Smallest Range Covering Elements from K Lists
 
