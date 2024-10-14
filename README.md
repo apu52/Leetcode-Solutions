@@ -529,5 +529,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 264(13 OCT) :**  Smallest Range Covering Elements from K Lists
 
+**DAY 265(14 OCT) :**  Maximal Score After Applying K Operations
 
 
