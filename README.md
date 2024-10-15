@@ -531,4 +531,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 265(14 OCT) :**  Maximal Score After Applying K Operations
 
+**DAY 266(15 OCT) :**  Separate Black and White Balls
 
