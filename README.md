@@ -533,3 +533,4 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 266(15 OCT) :**  Separate Black and White Balls
 
+**DAY 267(16 OCT) :**  Longest Happy String
