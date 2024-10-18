@@ -537,3 +537,4 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 268(17 OCT) :**  Maximum Swap
 
+**DAY 269(18 OCT) :**  Count Number of Maximum Bitwise-OR Subsets
