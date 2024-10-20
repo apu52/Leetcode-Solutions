@@ -541,3 +541,4 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 270(19 OCT) :**  Find Kth Bit in Nth Binary String
 
+**DAY 271(20 OCT) :**  Parsing A Boolean Expression
