@@ -551,3 +551,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 275(24 OCT) :**  Flip Equivalent Binary Trees
 
+**DAY 276(25 OCT) :**  Remove Sub-Folders from the Filesystem
+
