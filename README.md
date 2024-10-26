@@ -553,3 +553,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 276(25 OCT) :**  Remove Sub-Folders from the Filesystem
 
+**DAY 277(26 OCT) :**  Height of Binary Tree After Subtree Removal Queries
+
