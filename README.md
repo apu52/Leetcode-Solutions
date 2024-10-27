@@ -555,3 +555,4 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 277(26 OCT) :**  Height of Binary Tree After Subtree Removal Queries
 
+**DAY 278(27 OCT) :**  Count Square Submatrices with All Ones
