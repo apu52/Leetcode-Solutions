@@ -559,3 +559,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 279(28 OCT) :**  Longest Square Streak in an Array
 
+**DAY 280(29 OCT) :**  Maximum Number of Moves in a Grid
+
