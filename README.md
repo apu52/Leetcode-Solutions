@@ -561,3 +561,4 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 280(29 OCT) :**  Maximum Number of Moves in a Grid
 
+**DAY 281(30 OCT) :**  Minimum Number of Removals to Make Mountain Array
