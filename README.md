@@ -565,3 +565,4 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 282(31 OCT) :**  Minimum Total Distance Traveled
 
+**DAY 283(01 NOV) :**  Delete Characters to Make Fancy String
