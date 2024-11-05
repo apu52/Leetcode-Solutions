@@ -573,3 +573,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 286(04 NOV) :**  String Compression III
 
+**DAY 287(05 NOV) :**  Minimum Number of Changes to Make Binary String Beautiful
+
+
