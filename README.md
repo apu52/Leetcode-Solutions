@@ -580,3 +580,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 289(07 NOV) :**  Largest Combination With Bitwise AND Greater Than Zero
 
 **DAY 290(08 NOV) :**  Maximum XOR for Each Query
+
+**DAY 291(09 NOV) :**  Minimum Array End
+
+
