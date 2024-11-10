@@ -583,4 +583,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 291(09 NOV) :**  Minimum Array End
 
+**DAY 292(10 NOV) :**  Shortest Subarray With OR at Least K II
 
