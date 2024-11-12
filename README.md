@@ -586,3 +586,10 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 292(10 NOV) :**  Shortest Subarray With OR at Least K II
 
 **DAY 293(11 NOV) :**  Prime Subtraction Operation
+
+**DAY 294(12 NOV) :**  Most Beautiful Item for Each Query
+
+
+
+
+
