@@ -589,6 +589,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 294(12 NOV) :**  Most Beautiful Item for Each Query
 
+**DAY 295(13 NOV) :**  Count the Number of Fair Pairs
 
 
 
