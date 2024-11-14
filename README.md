@@ -591,6 +591,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 295(13 NOV) :**  Count the Number of Fair Pairs
 
-
+**DAY 296(14 NOV) :**  Minimized Maximum of Products Distributed to Any Store
 
 
