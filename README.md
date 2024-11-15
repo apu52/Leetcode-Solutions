@@ -593,4 +593,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 296(14 NOV) :**  Minimized Maximum of Products Distributed to Any Store
 
+**DAY 297(15 NOV) :**  Shortest Subarray to be Removed to Make Array Sorted
 
