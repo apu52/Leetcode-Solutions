@@ -595,3 +595,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 297(15 NOV) :**  Shortest Subarray to be Removed to Make Array Sorted
 
+**DAY 298(16 NOV) :**  Find the Power of K-Size Subarrays I
+
