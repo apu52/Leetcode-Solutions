@@ -597,3 +597,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 298(16 NOV) :**  Find the Power of K-Size Subarrays I
 
+**DAY 299(17 NOV) :**  Shortest Subarray with Sum at Least K
+
+
