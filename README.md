@@ -600,3 +600,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 299(17 NOV) :**  Shortest Subarray with Sum at Least K
 
 **DAY 300(18 NOV) :**  Defuse the Bomb
+
+**DAY 301(19 NOV) :**  Maximum Sum of Distinct Subarrays With Length K
+
+
