@@ -603,4 +603,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 301(19 NOV) :**  Maximum Sum of Distinct Subarrays With Length K
 
+**DAY 302(20 NOV) :**  Take K of Each Character From Left and Right
 
