@@ -605,3 +605,8 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 302(20 NOV) :**  Take K of Each Character From Left and Right
 
+**DAY 303(21 NOV) :**  Count Unguarded Cells in the Grid
+
+
+
+
