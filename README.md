@@ -607,6 +607,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 303(21 NOV) :**  Count Unguarded Cells in the Grid
 
+**DAY 304(22 NOV) :**  Flip Columns For Maximum Number of Equal Rows
 
 
 
