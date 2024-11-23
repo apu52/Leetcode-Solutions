@@ -609,5 +609,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 304(22 NOV) :**  Flip Columns For Maximum Number of Equal Rows
 
+**DAY 305(23 NOV) :**  Rotating the Box
 
 
