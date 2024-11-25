@@ -613,3 +613,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 306(24 NOV) :**  Maximum Matrix Sum
 
+**DAY 307(25 NOV) :**  Sliding Puzzle
+
+
