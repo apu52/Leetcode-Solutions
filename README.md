@@ -617,3 +617,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 308(26 NOV) :**  Find Champion II
 
+**DAY 309(27 NOV) :**  Shortest Distance After Road Addition Queries I
+
+
