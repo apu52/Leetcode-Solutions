@@ -619,4 +619,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 309(27 NOV) :**  Shortest Distance After Road Addition Queries I
 
+**DAY 310(28 NOV) :**  Minimum Obstacle Removal to Reach Corner
 
