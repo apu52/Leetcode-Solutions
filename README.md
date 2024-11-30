@@ -622,3 +622,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 310(28 NOV) :**  Minimum Obstacle Removal to Reach Corner
 
 **DAY 311(29 NOV) :**  Minimum Time to Visit a Cell In a Grid
+
+**DAY 312(30 NOV) :**  Valid Arrangement of Pairs
+
