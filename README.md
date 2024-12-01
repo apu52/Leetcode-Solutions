@@ -625,3 +625,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 312(30 NOV) :**  Valid Arrangement of Pairs
 
+**DAY 313(01 DEC) :**  Check If N and Its Double Exist
+
+
