@@ -627,4 +627,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 313(01 DEC) :**  Check If N and Its Double Exist
 
+**DAY 314(02 DEC) :**  Check If a Word Occurs As a Prefix of Any Word in a Sentence
+
 
