@@ -629,4 +629,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 314(02 DEC) :**  Check If a Word Occurs As a Prefix of Any Word in a Sentence
 
+**DAY 315(03 DEC) :**  Adding Spaces to a String
+
 
