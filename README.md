@@ -634,3 +634,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 316(04 DEC) :**  Make String a Subsequence Using Cyclic Increments
 
 **DAY 317(05 DEC) :**  Move Pieces to Obtain a String
+
+**DAY 318(06 DEC) :**  Maximum Number of Integers to Choose From a Range I
+
