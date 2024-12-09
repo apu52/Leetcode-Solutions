@@ -640,3 +640,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 319(07 DEC) :**  Minimum Limit of Balls in a Bag
 
 **DAY 320(08 DEC) :**  Two Best Non-Overlapping Events
+
+**DAY 321(09 DEC) :**  Special Array II
