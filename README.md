@@ -642,3 +642,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 320(08 DEC) :**  Two Best Non-Overlapping Events
 
 **DAY 321(09 DEC) :**  Special Array II
+
+**DAY 322(10 DEC) :**  Find Longest Special Substring That Occurs Thrice I
+
