@@ -646,3 +646,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 322(10 DEC) :**  Find Longest Special Substring That Occurs Thrice I
 
 **DAY 323(11 DEC) :**  Maximum Beauty of an Array After Applying Operation
+
+**DAY 324(12 DEC) :**  Take Gifts From the Richest Pile
+
