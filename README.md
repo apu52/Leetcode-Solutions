@@ -649,3 +649,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 324(12 DEC) :**  Take Gifts From the Richest Pile
 
+**DAY 325(13 DEC) :**  Find Score of an Array After Marking All Elements
+
