@@ -653,3 +653,4 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 326(14 DEC) :**  Continuous Subarrays
 
+**DAY 327(15 DEC) :**  Maximum Average Pass Ratio
