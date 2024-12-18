@@ -658,3 +658,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 328(16 DEC) :**  Final Array State After K Multiplication Operations I
 
 **DAY 329(17 DEC) :**  Construct String With Repeat Limit
+
+**DAY 330(18 DEC) :**  Final Prices With a Special Discount in a Shop
+
