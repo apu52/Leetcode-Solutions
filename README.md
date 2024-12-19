@@ -661,3 +661,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 330(18 DEC) :**  Final Prices With a Special Discount in a Shop
 
+**DAY 331(19 DEC) :**  Max Chunks To Make Sorted
+
