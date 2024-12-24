@@ -668,3 +668,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 333(21 DEC) :**  Maximum Number of K-Divisible Components
 
 **DAY 334(22 DEC) :**  Find Building Where Alice and Bob Can Meet
+
+**DAY 335(23 DEC) :**  Find Minimum Diameter After Merging Two Trees
+
