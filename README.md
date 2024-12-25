@@ -671,3 +671,4 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 335(23 DEC) :**  Find Minimum Diameter After Merging Two Trees
 
+**DAY 336(24 DEC) :**  Find Largest Value in Each Tree Row
