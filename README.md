@@ -669,6 +669,8 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 334(22 DEC) :**  Find Building Where Alice and Bob Can Meet
 
-**DAY 335(23 DEC) :**  Find Minimum Diameter After Merging Two Trees
+**DAY 335(23 DEC) :**  Minimum Number of Operations to Sort a Binary Tree by Level
 
-**DAY 336(24 DEC) :**  Find Largest Value in Each Tree Row
+**DAY 336(24 DEC) :**  Find Minimum Diameter After Merging Two Trees
+
+**DAY 337(25 DEC) :**  Find Largest Value in Each Tree Row
