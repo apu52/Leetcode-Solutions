@@ -677,4 +677,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 338(26 DEC) :**  Target Sum
 
+**DAY 339(27 DEC) :**  Best Sightseeing Pair
+
+
 
