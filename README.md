@@ -679,5 +679,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 339(27 DEC) :**  Best Sightseeing Pair
 
+**DAY 340(28 DEC) :**  Maximum Sum of 3 Non-Overlapping Subarrays
 
 
