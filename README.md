@@ -681,4 +681,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 340(28 DEC) :**  Maximum Sum of 3 Non-Overlapping Subarrays
 
+**DAY 341(29 DEC) :**  Number of Ways to Form a Target String Given a Dictionary
+
 
