@@ -686,3 +686,8 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 342(30 DEC) :**  Count Ways To Build Good Strings
 
 **DAY 343(31 DEC) :**  Minimum Cost For Tickets
+
+**DAY 344(01 JAN) :**  Maximum Score After Splitting a String
+
+
+
