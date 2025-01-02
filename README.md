@@ -689,5 +689,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 344(01 JAN) :**  Maximum Score After Splitting a String
 
+**DAY 345(02 JAN) :**  Count Vowel Strings in Ranges
+
 
 
