@@ -691,5 +691,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 345(02 JAN) :**  Count Vowel Strings in Ranges
 
+**DAY 346(03 JAN) :**  Number of Ways to Split Array
 
 
