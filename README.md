@@ -693,4 +693,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 346(03 JAN) :**  Number of Ways to Split Array
 
+**DAY 347(04 JAN) :**  Unique Length-3 Palindromic Subsequences
+
 
