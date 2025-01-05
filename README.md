@@ -695,4 +695,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 347(04 JAN) :**  Unique Length-3 Palindromic Subsequences
 
+**DAY 348(05 JAN) :**  Shifting Letters II
 
