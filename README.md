@@ -698,3 +698,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 348(05 JAN) :**  Shifting Letters II
 
 **DAY 349(06 JAN) :**  Minimum Number of Operations to Move All Balls to Each Box
+
+**DAY 350(07 JAN) :**  String Matching in an Array
