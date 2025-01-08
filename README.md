@@ -700,3 +700,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 349(06 JAN) :**  Minimum Number of Operations to Move All Balls to Each Box
 
 **DAY 350(07 JAN) :**  String Matching in an Array
+
+**DAY 351(08 JAN) :**  Count the number of possible triangles
+
