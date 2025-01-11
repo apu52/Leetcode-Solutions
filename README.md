@@ -706,3 +706,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 352(09 JAN) :**  Counting Words With a Given Prefix
 
 **DAY 353(10 JAN) :**  Word Subsets
+
+**DAY 354(11 JAN) :** Construct K Palindrome Strings
+
