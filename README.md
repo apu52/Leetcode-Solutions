@@ -710,3 +710,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 354(11 JAN) :** Construct K Palindrome Strings
 
 **DAY 355(12 JAN) :** Check if a Parentheses String Can Be Valid
+
+**DAY 356(13 JAN) :** Minimum Length of String After Operations
+
