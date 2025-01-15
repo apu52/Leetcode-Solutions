@@ -714,3 +714,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 356(13 JAN) :** Minimum Length of String After Operations
 
 **DAY 357(14 JAN) :** Find the Prefix Common Array of Two Arrays
+
+**DAY 358(15 JAN) :** Minimize XOR
+
