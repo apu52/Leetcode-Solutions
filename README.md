@@ -717,3 +717,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 358(15 JAN) :** Minimize XOR
 
+**DAY 359(16 JAN) :** Bitwise XOR of All Pairings
+
