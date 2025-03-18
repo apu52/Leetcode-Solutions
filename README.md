@@ -723,3 +723,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 361(17 MAR) :** Divide Array Into Equal Pairs
 
+**DAY 362(18 MAR) :** Longest Nice Subarray
+
