@@ -725,3 +725,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 362(18 MAR) :** Longest Nice Subarray
 
+**DAY 363(19 MAR) :** Minimum Operations to Make Binary Array Elements Equal to One I
+
