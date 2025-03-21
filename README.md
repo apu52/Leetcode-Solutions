@@ -728,3 +728,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 363(19 MAR) :** Minimum Operations to Make Binary Array Elements Equal to One I
 
 **DAY 364(20 MAR) :** Minimum Cost Walk in Weighted Graph
+
+**DAY 365(21 MAR) :** Find All Possible Recipes from Given Supplies
+
+
