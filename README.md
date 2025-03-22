@@ -731,4 +731,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 365(21 MAR) :** Find All Possible Recipes from Given Supplies
 
+**DAY 366(22 MAR) :** Count the Number of Complete Components
 
