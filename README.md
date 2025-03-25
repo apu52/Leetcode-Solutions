@@ -737,3 +737,4 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 368(24 MAR) :** Count Days Without Meetings
 
+**DAY 369(25 MAR) :** Check if Grid can be Cut into Sections
