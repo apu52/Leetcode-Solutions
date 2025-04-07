@@ -741,3 +741,4 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 370(26 MAR) :** Minimum Operations to Make a Uni-Value Grid
 
+**DAY 371(07 APR) :** Partition Equal Subset Sum
