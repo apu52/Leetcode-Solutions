@@ -746,3 +746,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 372(08 APR) :** Minimum Number of Operations to Make Elements in Array Distinct
 
 **DAY 373(09 APR) :** Minimum Operations to Make Array Values Equal to K
+
+**DAY 374(12 APR) :** Find the Count of Good Integers
+
