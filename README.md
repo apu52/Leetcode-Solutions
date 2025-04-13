@@ -749,3 +749,4 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 374(12 APR) :** Find the Count of Good Integers
 
+**DAY 375(13 APR) :** Count Good Numbers
