@@ -753,4 +753,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 376(14 APR) :** Count Good Triplets
 
+**DAY 377(15 APR) :** Count Good Triplets in an Array
 
