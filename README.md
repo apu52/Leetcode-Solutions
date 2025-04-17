@@ -756,3 +756,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 377(15 APR) :** Count Good Triplets in an Array
 
 **DAY 378(16 APR) :** Count the Number of Good Subarrays
+
+**DAY 379(17 APR) :** Count Equal and Divisible Pairs in an Array
+
