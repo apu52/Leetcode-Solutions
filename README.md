@@ -759,3 +759,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 379(17 APR) :** Count Equal and Divisible Pairs in an Array
 
+**DAY 380(18 APR) :** Implement Trie
+
