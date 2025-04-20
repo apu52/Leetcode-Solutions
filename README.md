@@ -762,3 +762,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 380(18 APR) :** Implement Trie
 
 **DAY 381(19 APR) :** Count the Number of Fair Pairs
+
+**DAY 382(20 APR) :** Rabbits in Forest
+
