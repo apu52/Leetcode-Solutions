@@ -765,3 +765,4 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 382(20 APR) :** Rabbits in Forest
 
+**DAY 383(21 APR) :** Count the Hidden Sequences
