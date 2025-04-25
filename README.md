@@ -770,3 +770,9 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 384(22 APR) :** Count the Number of Ideal Arrays
 
 **DAY 385(23 APR) :** Count Largest Group
+
+**DAY 386(24 APR) :** Count Complete Subarrays in an Array
+
+**DAY 387(25 APR) :** Count of Interesting Subarrays
+
+
