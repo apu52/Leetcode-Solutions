@@ -775,4 +775,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 387(25 APR) :** Count of Interesting Subarrays
 
+**DAY 388(26 APR) :** Count Subarrays With Fixed Bounds
 
