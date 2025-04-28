@@ -778,3 +778,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 388(26 APR) :** Count Subarrays With Fixed Bounds
 
 **DAY 389(27 APR) :** Count Subarrays of Length Three With a Condition
+
+**DAY 390(28 APR) :** Count Subarrays With Score Less Than K
+
