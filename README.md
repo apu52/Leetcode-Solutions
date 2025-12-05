@@ -781,3 +781,4 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 390(28 APR) :** Count Subarrays With Score Less Than K
 
+**DAY 391(05 DEC) :** Count Partitions with Even Sum Difference
