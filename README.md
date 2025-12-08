@@ -785,4 +785,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 392(07 DEC) :** Count Odd Numbers in an Interval Range
 
+**DAY 393(08 DEC) :** Count Square Sum Triples
 
