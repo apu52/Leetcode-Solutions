@@ -787,3 +787,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 393(08 DEC) :** Count Square Sum Triples
 
+**DAY 394(09 DEC) :** Count Special Triplets
+
