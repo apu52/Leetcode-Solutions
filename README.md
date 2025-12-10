@@ -789,3 +789,4 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 394(09 DEC) :** Count Special Triplets
 
+**DAY 395(10 DEC) :** Count the Number of Computer Unlocking Permutations
