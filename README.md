@@ -793,6 +793,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 396(11 DEC) :** Count Covered Buildings
 
+**DAY 397(12 DEC) :** Count Mentions Per User
 
 
 
