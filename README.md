@@ -795,6 +795,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 397(12 DEC) :** Count Mentions Per User
 
+**DAY 398(13 DEC) :** Coupon Code Validator
 
 
 
