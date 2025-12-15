@@ -799,6 +799,8 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 399(14 DEC) :** Number of Ways to Divide a Long Corridor
 
+**DAY 400(15 DEC) :** Number of Smooth Descent Periods of a Stock
+
 
 
 
