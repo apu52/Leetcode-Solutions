@@ -801,6 +801,8 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 400(15 DEC) :** Number of Smooth Descent Periods of a Stock
 
+**DAY 401(16 DEC) :** Maximum Profit from Trading Stocks with Discounts
+
 
 
 
