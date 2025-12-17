@@ -803,6 +803,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 401(16 DEC) :** Maximum Profit from Trading Stocks with Discounts
 
+**DAY 402(17 DEC) :** Best Time to Buy and Sell Stock V
 
 
 
