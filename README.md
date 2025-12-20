@@ -809,6 +809,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 404(19 DEC) :** Find All People With Secret
 
+**DAY 405(20 DEC) :** Delete Columns to Make Sorted
 
 
 
