@@ -807,6 +807,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 403(18 DEC) :** Best Time to Buy and Sell Stock using Strategy
 
+**DAY 404(19 DEC) :** Find All People With Secret
 
 
 
