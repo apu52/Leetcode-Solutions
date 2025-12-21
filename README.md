@@ -811,6 +811,8 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 405(20 DEC) :** Delete Columns to Make Sorted
 
+**DAY 406(21 DEC) :** Delete Columns to Make Sorted II
+
 
 
 
