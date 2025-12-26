@@ -821,6 +821,8 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 410(25 DEC) :** Maximize Happiness of Selected Children
 
+**DAY 411(26 DEC) :** Minimum Penalty for a Shop
+
 
 
 
