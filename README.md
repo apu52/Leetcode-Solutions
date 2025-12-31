@@ -827,5 +827,11 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 413(28 DEC) :** Count Negative Numbers in a Sorted Matrix
 
+**DAY 414(29 DEC) :** Pyramid Transition Matrix
+
+**DAY 415(30 DEC) :** Magic Squares In Grid
+
+**DAY 416(31 DEC) :** Last Day Where You Can Still Cross
+
 
 
