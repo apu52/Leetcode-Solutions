@@ -833,5 +833,14 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 416(31 DEC) :** Last Day Where You Can Still Cross
 
+**DAY 417(1 JAN) :** Plus One
+
+**DAY 418(2 JAN) :** N-Repeated Element in Size 2N Array
+
+**DAY 419(3 JAN) :** Number of Ways to Paint N × 3 Grid
+
+
+
+
 
 
