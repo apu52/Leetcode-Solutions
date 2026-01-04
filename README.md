@@ -839,6 +839,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 419(3 JAN) :** Number of Ways to Paint N × 3 Grid
 
+**DAY 420(4 JAN) :** Four Divisors
 
 
 
