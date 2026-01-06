@@ -843,6 +843,8 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 421(5 JAN) :** Maximum Matrix Sum
 
+**DAY 422(6 JAN) :** Maximum Level Sum of a Binary Tree
+
 
 
 
