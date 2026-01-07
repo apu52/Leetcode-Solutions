@@ -845,6 +845,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 422(6 JAN) :** Maximum Level Sum of a Binary Tree
 
+**DAY 423(7 JAN) :** Maximum Product of Splitted Binary Tree
 
 
 
