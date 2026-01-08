@@ -847,5 +847,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 423(7 JAN) :** Maximum Product of Splitted Binary Tree
 
+**DAY 424(8 JAN) :** Max Dot Product of Two Subsequences
+
 
 
