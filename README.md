@@ -849,5 +849,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 424(8 JAN) :** Max Dot Product of Two Subsequences
 
+**DAY 425(22 JAN) :** Minimum Pair Removal to Sort Array I
 
 
