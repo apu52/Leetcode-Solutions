@@ -851,4 +851,5 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 425(22 JAN) :** Minimum Pair Removal to Sort Array I
 
+**DAY 426(24 JAN) :** Minimize Maximum Pair Sum in Array
 
