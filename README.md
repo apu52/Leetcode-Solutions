@@ -853,3 +853,4 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 426(24 JAN) :** Minimize Maximum Pair Sum in Array
 
+**DAY 427(25 JAN) :** Minimum Difference Between Highest and Lowest of K Scores
