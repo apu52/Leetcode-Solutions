@@ -860,3 +860,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 429(27 JAN) :** Minimum Cost Path with Edge Reversals
 
 **DAY 430(28 JAN) :** Minimum Cost Path with Teleportations
+
+**DAY 431(29 JAN) :** Minimum Cost to Convert String I
+
+
