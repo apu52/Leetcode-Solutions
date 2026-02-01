@@ -866,3 +866,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 **DAY 432(30 JAN) :** Minimum Cost to Convert String II
 
 **DAY 433(31 JAN) :** Find Smallest Letter Greater Than Target
+
+**DAY 434(1 FEB) :** Divide an Array Into Subarrays With Minimum Cost I
+
