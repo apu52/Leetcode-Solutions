@@ -869,3 +869,22 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 434(1 FEB) :** Divide an Array Into Subarrays With Minimum Cost I
 
+**DAY 435(3 FEB) :** Trionic Array I
+
+**DAY 436(4 FEB) :** Trionic Array II
+
+**DAY 437(5 FEB) :** Transformed Array
+
+
+
+
+
+
+
+
+
+
+
+
+
+
