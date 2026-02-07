@@ -875,6 +875,9 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 437(5 FEB) :** Transformed Array
 
+**DAY 438(6 FEB) :** Minimum Removals to Balance Array
+
+**DAY 439(7 FEB) :** Minimum Deletions to Make String Balanced
 
 
 
