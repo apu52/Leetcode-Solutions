@@ -883,6 +883,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 441(10 FEB) :** Longest Balanced Subarray I
 
+**DAY 442(11 FEB) :** Longest Balanced Subarray II
 
 
 
