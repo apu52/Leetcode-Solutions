@@ -891,6 +891,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 445(14 FEB) :** Champagne Tower
 
+**DAY 446(15 FEB) :** Add Binary
 
 
 
