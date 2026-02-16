@@ -893,6 +893,8 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 446(15 FEB) :** Add Binary
 
+**DAY 447(16 FEB) :** Reverse Bits
+
 
 
 
