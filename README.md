@@ -895,6 +895,8 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 447(16 FEB) :** Reverse Bits
 
+**DAY 448(17 FEB) :** Binary Watch
+
 
 
 
