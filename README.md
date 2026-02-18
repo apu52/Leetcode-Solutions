@@ -897,6 +897,8 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 448(17 FEB) :** Binary Watch
 
+**DAY 449(18 FEB) :** Binary Number with Alternating Bits
+
 
 
 
