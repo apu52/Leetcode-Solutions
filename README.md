@@ -899,6 +899,8 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 449(18 FEB) :** Binary Number with Alternating Bits
 
+**DAY 450(19 FEB) :** Count Binary Substrings
+
 
 
 
