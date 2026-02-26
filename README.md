@@ -913,6 +913,8 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 456(25 FEB) :** Sort Integers by The Number of 1 Bits
 
+**DAY 457(26 FEB) :** Number of Steps to Reduce a Number in Binary Representation to One
+
 
 
 
