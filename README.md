@@ -915,6 +915,8 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 457(26 FEB) :** Number of Steps to Reduce a Number in Binary Representation to One
 
+**DAY 458(27 FEB) :** Minimum Operations to Equalize Binary String
+
 
 
 
