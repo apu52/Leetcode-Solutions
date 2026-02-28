@@ -917,6 +917,8 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 458(27 FEB) :** Minimum Operations to Equalize Binary String
 
+**DAY 459(28 FEB) :** Concatenation of Consecutive Binary Numbers
+
 
 
 
