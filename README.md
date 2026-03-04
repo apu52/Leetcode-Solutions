@@ -925,6 +925,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 462(03 MAR) :** Find Kth Bit in Nth Binary String
 
+**DAY 463(04 MAR) :** Special Positions in a Binary Matrix
 
 
 
