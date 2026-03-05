@@ -927,5 +927,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 463(04 MAR) :** Special Positions in a Binary Matrix
 
+**DAY 464(05 MAR) :** Minimum Changes To Make Alternating Binary String
 
 
