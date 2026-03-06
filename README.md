@@ -929,4 +929,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 464(05 MAR) :** Minimum Changes To Make Alternating Binary String
 
+**DAY 465(06 MAR) :** Check if Binary String Has at Most One Segment of Ones
+
 
