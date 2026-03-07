@@ -931,4 +931,6 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 465(06 MAR) :** Check if Binary String Has at Most One Segment of Ones
 
+**DAY 466(07 MAR) :** Minimum Number of Flips to Make the Binary String Alternating
+
 
