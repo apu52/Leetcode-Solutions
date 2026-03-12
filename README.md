@@ -941,3 +941,30 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 470(11 MAR) :** Complement of Base 10 Integer
 
+**DAY 471(12 MAR) :** Minimum K Consecutive Bit Flips
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
