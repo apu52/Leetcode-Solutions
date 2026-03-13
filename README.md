@@ -943,6 +943,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 471(12 MAR) :** Minimum K Consecutive Bit Flips
 
+**DAY 472(13 MAR) :** Minimum Number of Seconds to Make Mountain Height Zero
 
 
 
