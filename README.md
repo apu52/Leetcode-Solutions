@@ -945,6 +945,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 472(13 MAR) :** Minimum Number of Seconds to Make Mountain Height Zero
 
+**DAY 473(14 MAR) :** The k-th Lexicographical String of All Happy Strings of Length n
 
 
 
