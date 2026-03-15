@@ -947,6 +947,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 473(14 MAR) :** The k-th Lexicographical String of All Happy Strings of Length n
 
+**DAY 474(15 MAR) :** Fancy Sequence
 
 
 
