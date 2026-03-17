@@ -949,6 +949,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 474(15 MAR) :** Fancy Sequence
 
+**DAY 475(16 MAR) :** Get Biggest Three Rhombus Sums in a Grid
 
 
 
