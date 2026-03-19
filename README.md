@@ -955,6 +955,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 477(18 MAR) :** Count Submatrices with Top-Left Element and Sum Less Than k
 
+**DAY 478(19 MAR) :** Count Submatrices With Equal Frequency of X and Y
 
 
 
