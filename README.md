@@ -961,6 +961,7 @@ Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
 **DAY 480(21 MAR) :** Flip Square Submatrix Vertically
 
+**DAY 481(22 MAR) :** Determine Whether Matrix Can Be Obtained By Rotation
 
 
 
