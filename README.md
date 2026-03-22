@@ -1,6 +1,20 @@
 # Leetcode-Solutions
 Here are the solutions of Leetcode DAILY &amp; other problem solutions
 
+## Website
+
+This repository now includes a static website in [`docs/`](./docs) that is generated from the solution files in the repo root.
+
+- Add a new file like `123. Problem Title.py`
+- Push it to `main`
+- GitHub Pages rebuilds the site and the new problem appears automatically
+
+To regenerate the website data locally:
+
+```bash
+powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
+```
+
 **DAY 1(14 JAN) :** Determine if Two Strings Are Close
 
 **DAY 2(15 JAN) :** Find Players With Zero or One Losses

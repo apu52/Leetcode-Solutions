@@ -1,0 +1,9 @@
+{
+  "name": "leetcode-solutions-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static website generator for the Leetcode solutions repository.",
+  "scripts": {
+    "generate": "powershell -ExecutionPolicy Bypass -File scripts\\generate-site-data.ps1"
+  }
+}

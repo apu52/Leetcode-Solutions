@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en" id="top">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LEETAPU</title>
+    <meta
+      name="description"
+      content="LEETAPU is a living archive of daily LeetCode solutions, automatically generated from the repository."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <div class="site-bar">
+        <a class="brand-mark" href="#top">LEETAPU</a>
+        <div class="site-bar-actions">
+          <span id="live-date" class="site-note">Loading date...</span>
+          <button id="theme-toggle" class="secondary-button compact-button" type="button">Dark mode</button>
+          <a class="secondary-button compact-button" href="#solutions">Explore library</a>
+        </div>
+      </div>
+
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">LeetCode Daily Archive</p>
+          <h1>Track today, revisit any past date, and open every solution directly on the site.</h1>
+          <p class="hero-text">
+            This website reads the repo history, shows what was added today, and lets visitors browse older dates and copy code without leaving the page.
+          </p>
+          <div class="hero-points">
+            <span class="hero-point">Daily upload tracker</span>
+            <span class="hero-point">Calendar-based archive</span>
+            <span class="hero-point">Inline code viewer</span>
+          </div>
+          <div class="hero-actions">
+            <a class="primary-button" href="#calendar-section">Pick a date</a>
+            <a class="secondary-button" id="repo-link" href="#" target="_blank" rel="noreferrer">Open repository</a>
+          </div>
+        </div>
+        <div class="hero-panel">
+          <p class="panel-label">Today's latest problem</p>
+          <div id="today-preview" class="preview-shell hero-preview">Loading preview...</div>
+          <div id="today-highlight" class="latest-highlight">Loading today's status...</div>
+        </div>
+      </header>
+
+      <main>
+        <section class="stats-grid">
+          <article class="stat-card">
+            <span>Total solutions</span>
+            <strong id="total-solutions">0</strong>
+          </article>
+          <article class="stat-card">
+            <span>Languages used</span>
+            <strong id="total-languages">0</strong>
+          </article>
+          <article class="stat-card">
+            <span>Repo started</span>
+            <strong id="repo-birth-date">-</strong>
+          </article>
+          <article class="stat-card accent-stat">
+            <span>Problems added today</span>
+            <strong id="today-count">0</strong>
+          </article>
+        </section>
+
+        <section class="section-block">
+          <div class="section-heading">
+            <p class="eyebrow">Recently added</p>
+            <h2>Latest uploads across the repo</h2>
+            <p class="section-copy">A quick way to see the most recent additions without scrolling through the full archive.</p>
+          </div>
+          <div id="latest-grid" class="latest-grid"></div>
+        </section>
+
+        <section class="section-block" id="calendar-section">
+          <div class="section-heading">
+            <p class="eyebrow">Calendar archive</p>
+            <h2>Choose any past date from the repo timeline</h2>
+            <p class="section-copy">You can inspect only valid historical dates from the repository timeline. Future dates are intentionally blocked.</p>
+          </div>
+
+          <div class="toolbar calendar-toolbar">
+            <label class="filter-box">
+              <span>Select date</span>
+              <input id="date-picker" type="date" />
+            </label>
+            <div class="selected-date-summary" id="selected-date-summary">Loading date history...</div>
+          </div>
+
+          <div class="archive-results-head">
+            <div>
+              <p class="eyebrow">Chosen day</p>
+              <h3 id="selected-date-title">Loading archive...</h3>
+            </div>
+            <button class="secondary-button compact-button" id="jump-today" type="button">Jump to today</button>
+          </div>
+
+          <div id="selected-date-grid" class="solutions-grid"></div>
+        </section>
+
+        <section class="section-block" id="solutions">
+          <div class="section-heading">
+            <p class="eyebrow">Solution index</p>
+            <h2>Search by problem number, title, or language</h2>
+            <p class="section-copy">Browse the complete repository library and open any solution in a focused code reader.</p>
+          </div>
+
+          <div class="toolbar">
+            <label class="search-box">
+              <span>Search</span>
+              <input id="search-input" type="search" placeholder="Try 75, Binary Tree, Python..." />
+            </label>
+
+            <label class="filter-box">
+              <span>Language</span>
+              <select id="language-filter">
+                <option value="all">All languages</option>
+              </select>
+            </label>
+          </div>
+
+          <p id="results-count" class="results-count"></p>
+          <div id="solutions-grid" class="solutions-grid"></div>
+        </section>
+      </main>
+    </div>
+
+    <dialog id="code-modal" class="code-modal">
+      <div class="code-modal-card">
+        <div class="code-modal-header">
+          <div>
+            <p class="eyebrow">Code viewer</p>
+            <h2 id="modal-title">Solution title</h2>
+            <p id="modal-meta" class="modal-meta"></p>
+          </div>
+          <div class="modal-header-actions">
+            <a id="modal-source-link" class="secondary-button compact-button" href="#" target="_blank" rel="noreferrer">GitHub file</a>
+            <button id="modal-close" class="icon-button" type="button" aria-label="Close code viewer">Close</button>
+          </div>
+        </div>
+        <div class="code-actions">
+          <span id="modal-language" class="language-pill">Language</span>
+          <button id="copy-code" class="secondary-button" type="button">Copy code</button>
+        </div>
+        <div class="code-shell">
+          <div class="code-shell-top">
+            <span class="code-shell-dot"></span>
+            <span class="code-shell-dot"></span>
+            <span class="code-shell-dot"></span>
+            <span id="modal-file-name" class="code-shell-file">solution.cpp</span>
+          </div>
+          <pre class="code-block"><code id="modal-code"></code></pre>
+        </div>
+      </div>
+    </dialog>
+
+    <template id="solution-card-template">
+      <article class="solution-card">
+        <div class="card-preview"></div>
+        <div class="card-content">
+          <div class="solution-meta">
+            <span class="problem-number"></span>
+            <span class="language-pill"></span>
+          </div>
+          <h3 class="problem-title"></h3>
+          <p class="file-name"></p>
+        </div>
+        <div class="card-footer">
+          <span class="created-at"></span>
+          <button class="source-link view-code-button" type="button">View code</button>
+        </div>
+      </article>
+    </template>
+
+    <script src="./app.js" defer></script>
+  </body>
+</html>
