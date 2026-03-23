@@ -977,6 +977,8 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 481(22 MAR) :** Determine Whether Matrix Can Be Obtained By Rotation
 
+**DAY 482(23 MAR) :** Maximum Non Negative Product in a Matrix
+
 
 
 
