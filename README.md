@@ -979,6 +979,8 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 482(23 MAR) :** Maximum Non Negative Product in a Matrix
 
+**DAY 483(24 MAR) :** Construct Product Matrix
+
 
 
 
