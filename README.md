@@ -981,6 +981,8 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 483(24 MAR) :** Construct Product Matrix
 
+**DAY 484(25 MAR) :** Equal Sum Grid Partition I
+
 
 
 
