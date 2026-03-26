@@ -983,6 +983,8 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 484(25 MAR) :** Equal Sum Grid Partition I
 
+**DAY 485(26 MAR) :** Equal Sum Grid Partition II
+
 
 
 
