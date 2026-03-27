@@ -985,6 +985,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 485(26 MAR) :** Equal Sum Grid Partition II
 
+**DAY 486(27 MAR) :** Matrix Similarity After Cyclic Shifts
 
 
 
