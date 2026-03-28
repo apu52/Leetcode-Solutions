@@ -987,6 +987,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 486(27 MAR) :** Matrix Similarity After Cyclic Shifts
 
+**DAY 487(28 MAR) :** Find the String with LCP
 
 
 
