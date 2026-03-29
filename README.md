@@ -989,6 +989,8 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 487(28 MAR) :** Find the String with LCP
 
+**DAY 488(29 MAR) :** Check if Strings Can be Made Equal With Operations I
+
 
 
 
