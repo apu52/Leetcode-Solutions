@@ -991,6 +991,8 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 488(29 MAR) :** Check if Strings Can be Made Equal With Operations I
 
+**DAY 489(30 MAR) :** Check if Strings Can be Made Equal With Operations II
+
 
 
 
