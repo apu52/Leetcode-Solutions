@@ -993,6 +993,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 489(30 MAR) :** Check if Strings Can be Made Equal With Operations II
 
+**DAY 490(31 MAR) :** Lexicographically Smallest Generated String
 
 
 
