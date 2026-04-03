@@ -999,6 +999,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 492(02 APR) :** Robot CollisionsMaximum Amount of Money Robot Can Earn
 
+**DAY 493(03 APR) :** Maximum Walls Destroyed by Robots
 
 
 
