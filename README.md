@@ -1005,6 +1005,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 495(05 APR) :** Robot Return to Origin
 
+**DAY 496(06 APR) :** Walking Robot Simulation
 
 
 
