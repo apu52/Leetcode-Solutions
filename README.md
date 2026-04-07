@@ -1007,6 +1007,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 496(06 APR) :** Walking Robot Simulation
 
+**DAY 497(07 APR) :** Walking Robot Simulation II
 
 
 
