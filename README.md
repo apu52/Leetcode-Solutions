@@ -1011,6 +1011,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 498(08 APR) :** XOR After Range Multiplication Queries I
 
+**DAY 499(09 APR) :** XOR After Range Multiplication Queries II
 
 
 
