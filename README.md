@@ -1015,6 +1015,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 500(10 APR) :** Minimum Distance Between Three Equal Elements I
 
+**DAY 501(11 APR) :** Minimum Distance Between Three Equal Elements II
 
 
 
