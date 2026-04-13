@@ -1019,6 +1019,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 502(12 APR) :** Minimum Distance to Type a Word Using Two Fingers
 
+**DAY 503(13 APR) :** Minimum Distance to the Target Element
 
 
 
