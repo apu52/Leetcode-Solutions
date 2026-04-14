@@ -1021,6 +1021,8 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 503(13 APR) :** Minimum Distance to the Target Element
 
+**DAY 504(14 APR) :** Minimum Total Distance Traveled
+
 
 
 
