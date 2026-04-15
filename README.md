@@ -1023,6 +1023,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 504(14 APR) :** Minimum Total Distance Traveled
 
+**DAY 505(15 APR) :** Shortest Distance to Target String in a Circular Array
 
 
 
