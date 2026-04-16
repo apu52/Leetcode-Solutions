@@ -1025,5 +1025,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 505(15 APR) :** Shortest Distance to Target String in a Circular Array
 
+**DAY 506(16 APR) :** Closest Equal Element Queries
+
 
 
