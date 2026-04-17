@@ -1027,5 +1027,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 506(16 APR) :** Closest Equal Element Queries
 
+**DAY 507(17 APR) :** Minimum Absolute Distance Between Mirror Pairs
+
 
 
