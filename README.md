@@ -1029,5 +1029,6 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 507(17 APR) :** Minimum Absolute Distance Between Mirror Pairs
 
+**DAY 508(18 APR) :** Mirror Distance of an Integer
 
 
