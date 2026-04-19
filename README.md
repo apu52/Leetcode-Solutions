@@ -1031,4 +1031,6 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 508(18 APR) :** Mirror Distance of an Integer
 
+**DAY 509(19 APR) :** Maximum Distance Between a Pair of Values
+
 
