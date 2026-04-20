@@ -1033,4 +1033,6 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 509(19 APR) :** Maximum Distance Between a Pair of Values
 
+**DAY 510(20 APR) :** Two Furthest Houses With Different Colors
+
 
