@@ -1035,4 +1035,5 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 510(20 APR) :** Two Furthest Houses With Different Colors
 
+**DAY 511(21 APR) :** Minimize Hamming Distance After Swap Operations
 
