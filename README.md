@@ -1037,3 +1037,14 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 511(21 APR) :** Minimize Hamming Distance After Swap Operations
 
+**DAY 512(22 APR) :** Words Within Two Edits of Dictionary
+
+
+
+
+
+
+
+
+
+
