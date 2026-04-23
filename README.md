@@ -1039,6 +1039,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 512(22 APR) :** Words Within Two Edits of Dictionary
 
+**DAY 513(23 APR) :** Sum of Distances
 
 
 
