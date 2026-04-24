@@ -1041,6 +1041,8 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 513(23 APR) :** Sum of Distances
 
+**DAY 514(24 APR) :** Furthest Point From Origin
+
 
 
 
