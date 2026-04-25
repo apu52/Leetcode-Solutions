@@ -1043,6 +1043,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 514(24 APR) :** Furthest Point From Origin
 
+**DAY 515(25 APR) :** Maximize the Distance Between Points on a Square
 
 
 
