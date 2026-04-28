@@ -1049,6 +1049,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 517(27 APR) :** Check if There is a Valid Path in a Grid
 
+**DAY 518(28 APR) :** Minimum Operations to Make a Uni-Value Grid
 
 
 
