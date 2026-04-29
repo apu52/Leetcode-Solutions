@@ -1051,6 +1051,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 518(28 APR) :** Minimum Operations to Make a Uni-Value Grid
 
+**DAY 519(29 APR) :** Maximum Score From Grid Operations
 
 
 
