@@ -1053,6 +1053,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 519(29 APR) :** Maximum Score From Grid Operations
 
+**DAY 520(30 APR) :** Maximum Path Score in a Grid
 
 
 
