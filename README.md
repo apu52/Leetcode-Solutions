@@ -1055,6 +1055,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 520(30 APR) :** Maximum Path Score in a Grid
 
+**DAY 521(01 MAY) :** Rotate Function
 
 
 
