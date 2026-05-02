@@ -1057,5 +1057,6 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 521(01 MAY) :** Rotate Function
 
+**DAY 522(02 MAY) :** Rotated Digits
 
 
