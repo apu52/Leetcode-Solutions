@@ -1063,6 +1063,8 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 524(04 MAY) :** Rotate Image
 
+**DAY 525(05 MAY) :** Rotate List
+
 
 
 
