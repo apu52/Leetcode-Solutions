@@ -1065,6 +1065,9 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 525(05 MAY) :** Rotate List
 
+**DAY 526(06 MAY) :** Rotating the Box
+
+**DAY 527(07 MAY) :** Jump Game IX
 
 
 
