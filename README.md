@@ -1069,6 +1069,8 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 527(07 MAY) :** Jump Game IX
 
+**DAY 528(08 MAY) :** Minimum Jumps to Reach End via Prime Teleportation
+
 
 
 
