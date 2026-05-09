@@ -1071,6 +1071,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 528(08 MAY) :** Minimum Jumps to Reach End via Prime Teleportation
 
+**DAY 529(09 MAY) :** Cyclically Rotating a Grid
 
 
 
