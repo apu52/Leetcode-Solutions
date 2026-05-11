@@ -1075,6 +1075,8 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 530(10 MAY) :** Maximum Number of Jumps to Reach the Last Index
 
+**DAY 531(11 MAY) :** Separate the Digits in an Array
+
 
 
 
