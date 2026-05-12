@@ -1077,6 +1077,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 531(11 MAY) :** Separate the Digits in an Array
 
+**DAY 532(12 MAY) :** Minimum Initial Energy to Finish Tasks
 
 
 
