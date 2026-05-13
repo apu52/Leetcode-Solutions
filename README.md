@@ -1079,6 +1079,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 532(12 MAY) :** Minimum Initial Energy to Finish Tasks
 
+**DAY 533(13 MAY) :** Minimum Moves to Make Array Complementary
 
 
 
