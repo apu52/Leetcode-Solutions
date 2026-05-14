@@ -1081,6 +1081,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 533(13 MAY) :** Minimum Moves to Make Array Complementary
 
+**DAY 534(14 MAY) :** Check if Array is Good
 
 
 
