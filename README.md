@@ -1083,6 +1083,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 534(14 MAY) :** Check if Array is Good
 
+**DAY 535(15 MAY) :** Find Minimum in Rotated Sorted Array
 
 
 
