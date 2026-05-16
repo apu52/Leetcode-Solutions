@@ -1085,5 +1085,6 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 535(15 MAY) :** Find Minimum in Rotated Sorted Array
 
+**DAY 536(16 MAY) :** Find Minimum in Rotated Sorted Array II
 
 
