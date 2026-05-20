@@ -1090,3 +1090,6 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 **DAY 537(17 MAY) :** Jump Game III
 
 **DAY 538(19 MAY) :** Minimum Common Value
+
+**DAY 539(20 MAY) :** Find the Prefix Common Array of Two Arrays
+
