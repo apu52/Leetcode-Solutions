@@ -1093,3 +1093,4 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 539(20 MAY) :** Find the Prefix Common Array of Two Arrays
 
+**DAY 540(21 MAY) :** Find the Length of the Longest Common Prefix
