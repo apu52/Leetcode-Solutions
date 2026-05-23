@@ -1097,4 +1097,5 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 541(22 MAY) :** Search in Rotated Sorted Array
 
+**DAY 542(23 MAY) :** Check if Array Is Sorted and Rotated
 
