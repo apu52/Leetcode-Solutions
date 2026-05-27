@@ -1102,3 +1102,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 **DAY 543(25 MAY) :** Jump Game VII
 
 **DAY 544(26 MAY) :** Count the Number of Special Characters I
+
+**DAY 545(27 MAY) :** Count the Number of Special Characters II
+
+
