@@ -1105,4 +1105,5 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 545(27 MAY) :** Count the Number of Special Characters II
 
+**DAY 546(28 MAY) :** Longest Common Suffix Queries
 
