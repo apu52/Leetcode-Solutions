@@ -1107,3 +1107,5 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 546(28 MAY) :** Longest Common Suffix Queries
 
+**DAY 547(29 MAY) :** Minimum Element After Replacement With Digit Sum
+
