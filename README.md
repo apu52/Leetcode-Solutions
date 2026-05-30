@@ -1109,3 +1109,4 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 547(29 MAY) :** Minimum Element After Replacement With Digit Sum
 
+**DAY 548(30 MAY) :** Block Placement Queries
