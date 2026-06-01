@@ -1113,6 +1113,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 549(31 MAY) :** Destroying Asteroids
 
+**DAY 550(01 JUN) :** Minimum Cost of Buying Candies With Discount
 
 
 
