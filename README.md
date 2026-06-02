@@ -1115,6 +1115,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 550(01 JUN) :** Minimum Cost of Buying Candies With Discount
 
+**DAY 551(02 JUN) :** Earliest Finish Time for Land and Water Rides I
 
 
 
