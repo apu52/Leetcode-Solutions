@@ -1117,6 +1117,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 551(02 JUN) :** Earliest Finish Time for Land and Water Rides I
 
+**DAY 552(03 JUN) :** Earliest Finish Time for Land and Water Rides II
 
 
 
