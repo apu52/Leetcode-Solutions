@@ -1121,6 +1121,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 553(04 JUN) :** Total Waviness of Numbers in Range I
 
+**DAY 554(05 JUN) :** Total Waviness of Numbers in Range II
 
 
 
