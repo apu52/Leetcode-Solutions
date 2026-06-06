@@ -1123,6 +1123,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 554(05 JUN) :** Total Waviness of Numbers in Range II
 
+**DAY 555(06 JUN) :** Left and Right Sum Differences
 
 
 
