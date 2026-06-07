@@ -1125,6 +1125,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 555(06 JUN) :** Left and Right Sum Differences
 
+**DAY 556(07 JUN) :** Create Binary Tree From Descriptions
 
 
 
