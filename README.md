@@ -1127,7 +1127,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 556(07 JUN) :** Create Binary Tree From Descriptions
 
-
+**DAY 557(08 JUN) :** Partition Array According to Given Pivot
 
 
 
