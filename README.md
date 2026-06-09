@@ -1129,6 +1129,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 557(08 JUN) :** Partition Array According to Given Pivot
 
+**DAY 558(09 JUN) :** Maximum Total Subarray Value I
 
 
 
