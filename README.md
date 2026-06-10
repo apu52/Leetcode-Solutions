@@ -1131,5 +1131,6 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 558(09 JUN) :** Maximum Total Subarray Value I
 
+**DAY 559(10 JUN) :** Maximum Total Subarray Value II
 
 
