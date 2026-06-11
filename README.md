@@ -1133,4 +1133,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 559(10 JUN) :** Maximum Total Subarray Value II
 
+**DAY 560(11 JUN) :** Number of Ways to Assign Edge Weights I
+
+
 
