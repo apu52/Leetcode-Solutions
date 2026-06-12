@@ -1135,5 +1135,6 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 560(11 JUN) :** Number of Ways to Assign Edge Weights I
 
+**DAY 561(12 JUN) :** Number of Ways to Assign Edge Weights II
 
 
