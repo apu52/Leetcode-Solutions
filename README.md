@@ -1139,3 +1139,18 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 562(13 JUN) :** Weighted Word Mapping
 
+**DAY 563(14 JUN) :** Maximum Twin Sum of a Linked List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
