@@ -1141,6 +1141,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 563(14 JUN) :** Maximum Twin Sum of a Linked List
 
+**DAY 564(15 JUN) :** Delete the Middle Node of a Linked List
 
 
 
