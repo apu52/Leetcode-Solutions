@@ -1143,6 +1143,8 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 564(15 JUN) :** Delete the Middle Node of a Linked List
 
+**DAY 565(16 JUN) :** Process String with Special Operations I
+
 
 
 
