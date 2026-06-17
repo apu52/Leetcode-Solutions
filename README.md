@@ -1145,6 +1145,8 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 565(16 JUN) :** Process String with Special Operations I
 
+**DAY 566(17 JUN) :** Process String with Special Operations II
+
 
 
 
