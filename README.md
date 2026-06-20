@@ -1149,6 +1149,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 567(19 JUN) :** Find the Highest Altitude
 
+**DAY 568(20 JUN) :** Maximum Building Height
 
 
 
