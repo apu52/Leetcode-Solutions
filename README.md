@@ -1151,6 +1151,8 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 568(20 JUN) :** Maximum Building Height
 
+**DAY 569(21 JUN) :** Maximum Ice Cream Bars
+
 
 
 
