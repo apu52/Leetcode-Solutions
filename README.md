@@ -1153,6 +1153,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 569(21 JUN) :** Maximum Ice Cream Bars
 
+**DAY 570(22 JUN) :** Maximum Number of Balloons
 
 
 
