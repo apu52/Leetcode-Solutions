@@ -1155,6 +1155,8 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 570(22 JUN) :** Maximum Number of Balloons
 
+**DAY 571(23 JUN) :** Number of ZigZag Arrays I
+
 
 
 
