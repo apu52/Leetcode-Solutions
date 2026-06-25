@@ -1157,8 +1157,9 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 571(23 JUN) :** Number of ZigZag Arrays I
 
-**DAY 571(23 JUN) :** Number of ZigZag Arrays II
+**DAY 572(24 JUN) :** Number of ZigZag Arrays II
 
+**DAY 573(25 JUN) :** Count Subarrays With Majority Element I
 
 
 
