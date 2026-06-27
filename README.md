@@ -1161,6 +1161,8 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 573(25 JUN) :** Count Subarrays With Majority Element I
 
+**DAY 574(27 JUN) :** Find the Maximum Number of Elements in Subset
+
 
 
 
