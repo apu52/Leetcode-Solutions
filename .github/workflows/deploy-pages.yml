@@ -40,7 +40,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: docs
-          retention-days: 7
+          retention-days: 90
 
   deploy:
     environment:
