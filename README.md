@@ -1163,6 +1163,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 574(27 JUN) :** Find the Maximum Number of Elements in Subset
 
+**DAY 575(28 JUN) :** Maximum Element After Decreasing and Rearranging
 
 
 
