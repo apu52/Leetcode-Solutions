@@ -1165,6 +1165,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 575(28 JUN) :** Maximum Element After Decreasing and Rearranging
 
+**DAY 576(29 JUN) :** Number of Strings That Appear as Substrings in Word
 
 
 
