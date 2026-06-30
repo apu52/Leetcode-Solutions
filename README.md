@@ -1167,6 +1167,7 @@ powershell -ExecutionPolicy Bypass -File scripts\generate-site-data.ps1
 
 **DAY 576(29 JUN) :** Number of Strings That Appear as Substrings in Word
 
+**DAY 577(30 JUN) :** Number of Substrings Containing All Three Characters
 
 
 
